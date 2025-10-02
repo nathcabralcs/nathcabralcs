@@ -6,8 +6,6 @@ Currently working through LetsDefend.io and CompTIA Security+ (SY0-701) to build
 
 📜 Certifications & Training
 
-📖 Studying: CompTIA Security+ (SY0-701)
-
-🎓 LetsDefend.io – Starter Path (SOC & Blue Team Labs)
-
-🏆 Future: Blue Team Level 1 (BTL1), Splunk Fundamentals, AWS Security
+🚀 Currently Learning
+- **Career Switch to Cybersecurity Path** (LetsDefend.io)  
+  Building blue-team fundamentals: Network & OS basics, SIEM analysis, malware traffic investigation.  
